@@ -1,0 +1,5 @@
+{
+  "model_name": "RandomForest",
+  "version": "1.0",
+  "random_state": 42
+}
