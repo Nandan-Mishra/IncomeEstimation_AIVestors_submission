@@ -1,6 +1,6 @@
 # 1. Folder Setup
 Make sure your project folder looks like this:
-
+```bash
 ml-pipeline/
 ├── main.py
 ├── run_inference.py
@@ -13,6 +13,7 @@ ml-pipeline/
 │ └── Hackathon_bureau_data_400.csv
 └── output/
 └── (income_model.pkl will be saved here after training)
+```
 
 # 2. Install Required Packages
 Open terminal in the project folder and run:
